@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DrUkachi
 - 👀 I’m interested in building Machine Learning tools for anything - with a specialised interest in Smart Grids
 - 🌱 I’m currently learning Machine Learning Ops
-- 💞️ I’m looking to collaborate on ML APIs, cool apps
+- 💞️ I’m looking to collaborate on Data Science Projects, ML APIs, cool apps
 - 📫 How to reach me ukachi.osi@gmail.com
 
 <!---
